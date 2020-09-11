@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net.Sockets;
 
 namespace server
 {
@@ -6,6 +7,7 @@ namespace server
     {
         static void Main(string[] args)
         {
+            Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             Console.WriteLine("Hello World!");
         }
     }
