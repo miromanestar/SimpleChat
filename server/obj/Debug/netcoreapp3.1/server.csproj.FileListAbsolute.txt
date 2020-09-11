@@ -1,0 +1,13 @@
+C:\Users\Miro Manestar\SimpleChat\server\bin\Debug\netcoreapp3.1\server.exe
+C:\Users\Miro Manestar\SimpleChat\server\bin\Debug\netcoreapp3.1\server.deps.json
+C:\Users\Miro Manestar\SimpleChat\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\Miro Manestar\SimpleChat\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\Miro Manestar\SimpleChat\server\bin\Debug\netcoreapp3.1\server.dll
+C:\Users\Miro Manestar\SimpleChat\server\bin\Debug\netcoreapp3.1\server.pdb
+C:\Users\Miro Manestar\SimpleChat\server\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+C:\Users\Miro Manestar\SimpleChat\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\Miro Manestar\SimpleChat\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\Miro Manestar\SimpleChat\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\Users\Miro Manestar\SimpleChat\server\obj\Debug\netcoreapp3.1\server.dll
+C:\Users\Miro Manestar\SimpleChat\server\obj\Debug\netcoreapp3.1\server.pdb
+C:\Users\Miro Manestar\SimpleChat\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
