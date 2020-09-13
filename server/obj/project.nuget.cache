@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F8NVG1SLakbNjOlTPenKwVmA1/XQ4cnW1XTOO54lwY9LF+g5s1qmcTA4bp4fRxDwOkdmzaoLgA2fYX7O+Es0gQ==",
+  "dgSpecHash": "rd3yJtQm2zu5ltX60uqWqwRBQsaHvXDq5VkgWHAEoILd5xajzAmTg0dgaiQe+NezVhxV6++8xCiInNM2us9PQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Miro Manestar\\SimpleChat\\server\\server.csproj",
+  "projectFilePath": "c:\\Users\\miroi\\SimpleChat\\server\\server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
