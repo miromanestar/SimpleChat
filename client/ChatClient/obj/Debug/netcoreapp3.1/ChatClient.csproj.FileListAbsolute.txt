@@ -1,0 +1,16 @@
+c:\Users\miroi\SimpleChat\client\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.exe
+c:\Users\miroi\SimpleChat\client\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.deps.json
+c:\Users\miroi\SimpleChat\client\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.runtimeconfig.json
+c:\Users\miroi\SimpleChat\client\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.runtimeconfig.dev.json
+c:\Users\miroi\SimpleChat\client\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.dll
+c:\Users\miroi\SimpleChat\client\ChatClient\bin\Debug\netcoreapp3.1\ChatClient.pdb
+c:\Users\miroi\SimpleChat\client\ChatClient\bin\Debug\netcoreapp3.1\ChatLibrary.dll
+c:\Users\miroi\SimpleChat\client\ChatClient\bin\Debug\netcoreapp3.1\ChatLibrary.pdb
+c:\Users\miroi\SimpleChat\client\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csprojAssemblyReference.cache
+c:\Users\miroi\SimpleChat\client\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.AssemblyInfoInputs.cache
+c:\Users\miroi\SimpleChat\client\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.AssemblyInfo.cs
+c:\Users\miroi\SimpleChat\client\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.CoreCompileInputs.cache
+c:\Users\miroi\SimpleChat\client\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.csproj.CopyComplete
+c:\Users\miroi\SimpleChat\client\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.dll
+c:\Users\miroi\SimpleChat\client\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.pdb
+c:\Users\miroi\SimpleChat\client\ChatClient\obj\Debug\netcoreapp3.1\ChatClient.genruntimeconfig.cache

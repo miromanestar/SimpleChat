@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GD5ymrLVpax0zjHfAZ+WPU9wQe2IQWYASJIbMdEdLpktAw53BV0r2p0xHufAr0kNxPz3udaVacuP5f++IX6ixg==",
+  "dgSpecHash": "QRJiSB3A3OrA5lZ+DFebc9m8eS96DlhYVk7mf5NY6u7xT9KJMfM6bdvALa8Hh2b/bEyzOU0tYwKtAnpsHXpKyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\miroi\\SimpleChat\\client\\ChatLibrary\\ChatLibrary.csproj",
+  "projectFilePath": "c:\\Users\\miroi\\SimpleChat\\client\\ChatLibrary\\ChatLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miroi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\miroi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

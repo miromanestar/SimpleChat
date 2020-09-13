@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miroi\\SimpleChat\\client\\ChatLibrary\\ChatLibrary.csproj": {}
+    "c:\\Users\\miroi\\SimpleChat\\client\\ChatLibrary\\ChatLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miroi\\SimpleChat\\client\\ChatLibrary\\ChatLibrary.csproj": {
+    "c:\\Users\\miroi\\SimpleChat\\client\\ChatLibrary\\ChatLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miroi\\SimpleChat\\client\\ChatLibrary\\ChatLibrary.csproj",
+        "projectUniqueName": "c:\\Users\\miroi\\SimpleChat\\client\\ChatLibrary\\ChatLibrary.csproj",
         "projectName": "ChatLibrary",
-        "projectPath": "C:\\Users\\miroi\\SimpleChat\\client\\ChatLibrary\\ChatLibrary.csproj",
+        "projectPath": "c:\\Users\\miroi\\SimpleChat\\client\\ChatLibrary\\ChatLibrary.csproj",
         "packagesPath": "C:\\Users\\miroi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miroi\\SimpleChat\\client\\ChatLibrary\\obj\\",
+        "outputPath": "c:\\Users\\miroi\\SimpleChat\\client\\ChatLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miroi\\AppData\\Roaming\\NuGet\\NuGet.Config"

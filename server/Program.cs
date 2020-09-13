@@ -47,7 +47,7 @@ namespace server {
             NetworkStream stream = clientSocket.GetStream();
             stream.Read(receivedBytes, 0, clientSocket.ReceiveBufferSize);
             string data = Encoding.ASCII.GetString(receivedBytes);
-            data = data.Substring(0, data.IndexOf("$"));
+            data = data.Substring(0, data.IndexOf('\0'));
 
             return data;
         }

@@ -1,12 +1,11 @@
-﻿using System;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 using System.Net.Sockets;
+using System.Threading;
 
 namespace ChatLibrary {
     public class ClientModel : INotifyPropertyChanged
     {
-        private TcpClient socket;
-        private NetworkStream stream;
+        private ClientStringSocket socket;
 
         private string messageBoard;
         public string MessageBoard {
@@ -20,17 +19,31 @@ namespace ChatLibrary {
             set { currentMessage = value; OnPropertyChanged("CurrentMessage"); }
         }
 
-        private bool connected;
         public bool Connected {
-            get { return connected; }
-            set { connected = value; OnPropertyChanged("Connected"); }
+            get { return socket != null && socket.Connected; }
         }
 
-        public ClientModel() {
-            connected = false;
+        public void Connect() {
+            socket = new ClientStringSocket("127.0.0.1", 6660);
+            Send();
+            messageBoard = $"Welcome: ${ currentMessage }";
+
+            var thread = new Thread(GetMessage);
+            thread.Start();
         }
 
-        #region INotifyPropertyChanged Code
+        private void GetMessage() {
+            while(true) {
+                string msg = socket.ReadString();
+                MessageBoard += "\r\n" + msg;
+            }
+        }
+
+        public void Send() {
+            socket.WriteString(currentMessage);
+        }
+
+        #region PropertyChanged
         public event PropertyChangedEventHandler PropertyChanged;
 
         protected virtual void OnPropertyChanged(string propertyName) {

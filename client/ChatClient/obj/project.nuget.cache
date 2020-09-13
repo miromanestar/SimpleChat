@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vxq5GgTtoTyXfy8NCxdKrkSd1guw1P2mNkneRdbGge8EmiZ94M6fBVxiIESQbryGv5SoO/HmJRlYS3dVpwdzzw==",
+  "dgSpecHash": "aIrCI16HtQ5eTRge4rJxaWkeWTbRI3Vc/sCEWCf9lc2mt0FhuO9Ype5iWcH+7rxi5tNJrHCP6Q2VGmd7lykBUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\miroi\\SimpleChat\\client\\ChatClient\\ChatClient.csproj",
+  "projectFilePath": "c:\\Users\\miroi\\SimpleChat\\client\\ChatClient\\ChatClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

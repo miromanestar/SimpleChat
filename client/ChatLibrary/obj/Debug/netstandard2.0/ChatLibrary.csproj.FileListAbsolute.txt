@@ -1,0 +1,9 @@
+c:\Users\miroi\SimpleChat\client\ChatLibrary\bin\Debug\netstandard2.0\ChatLibrary.deps.json
+c:\Users\miroi\SimpleChat\client\ChatLibrary\bin\Debug\netstandard2.0\ChatLibrary.dll
+c:\Users\miroi\SimpleChat\client\ChatLibrary\bin\Debug\netstandard2.0\ChatLibrary.pdb
+c:\Users\miroi\SimpleChat\client\ChatLibrary\obj\Debug\netstandard2.0\ChatLibrary.csprojAssemblyReference.cache
+c:\Users\miroi\SimpleChat\client\ChatLibrary\obj\Debug\netstandard2.0\ChatLibrary.AssemblyInfoInputs.cache
+c:\Users\miroi\SimpleChat\client\ChatLibrary\obj\Debug\netstandard2.0\ChatLibrary.AssemblyInfo.cs
+c:\Users\miroi\SimpleChat\client\ChatLibrary\obj\Debug\netstandard2.0\ChatLibrary.csproj.CoreCompileInputs.cache
+c:\Users\miroi\SimpleChat\client\ChatLibrary\obj\Debug\netstandard2.0\ChatLibrary.dll
+c:\Users\miroi\SimpleChat\client\ChatLibrary\obj\Debug\netstandard2.0\ChatLibrary.pdb
